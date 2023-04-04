@@ -38,9 +38,7 @@ The Dataset used for this analysis was presented by [World Health Organization](
 
 Data transformation was done in Excel and the dataset was loaded into Qlik Sense for Visualization.
 
-The datasets:
 
-- `WHO-COVID-19-global-data` which has `8 columns and 280134 rows` of observation
 
 Possible KPIs include(but not limited to):
 - Overall Cumulatives
