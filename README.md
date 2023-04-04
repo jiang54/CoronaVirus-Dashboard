@@ -1,4 +1,4 @@
-# CoronaVirus-Dashboard
+# CoronaVirus-Dashboard (Done by Qlik Sense)
 
 ![image](https://user-images.githubusercontent.com/24377958/229694560-27108937-3d08-43da-9209-5d6630105487.png)
 # Vaccination Dashboard
