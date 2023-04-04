@@ -6,14 +6,14 @@
 
 # Table of Contents
 
-- [Problem Statement](https://https://github.com/jiang54/CoronaVirus-Dashboard#Problem-Statement)
-- [Data Sourcing](https://https://github.com/jiang54/CoronaVirus-Dashboard#Data-Sourcing)
-- [Data Preparation](https://https://github.com/jiang54/CoronaVirus-Dashboard#Data-Preparation)
-- [Data Modeling](https://https://github.com/jiang54/CoronaVirus-Dashboard#Data-Modeling)
-- [Data Analysis](https://https://github.com/jiang54/CoronaVirus-Dashboard#Data-Analysis)
+- [Problem Statement](https://github.com/jiang54/CoronaVirus-Dashboard#problem-statement)
+- [Data Sourcing](https://github.com/jiang54/CoronaVirus-Dashboard#data-sourcing)
+- [Data Preparation](https://github.com/jiang54/CoronaVirus-Dashboard#data-preparation)
+- [Data Modeling](https://github.com/jiang54/CoronaVirus-Dashboard#data-modeling)
+- [Data Analysis](https://github.com/jiang54/CoronaVirus-Dashboard#data-visualization)
 - [Data Visualization](https://https://github.com/jiang54/CoronaVirus-Dashboard#Data-Visualization)
-- [Insights](https://https://github.com/jiang54/CoronaVirus-Dashboard#Insights)
-- [Data Source](https://https://github.com/jiang54/CoronaVirus-Dashboard#Data-Source)
+- [Insights](https://github.com/jiang54/CoronaVirus-Dashboard#insights)
+- [Data Source](https://github.com/jiang54/CoronaVirus-Dashboard#data-source)
 
 
 ---
