@@ -1,6 +1,7 @@
 # CoronaVirus-Dashboard
 
 ![image](https://user-images.githubusercontent.com/24377958/229694560-27108937-3d08-43da-9209-5d6630105487.png)
+# Vaccination Dashboard
 ![image](https://user-images.githubusercontent.com/24377958/229694738-8615adbf-7ed3-4b82-92b6-8c59b19a740b.png)
 
 # Table of Contents
