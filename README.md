@@ -137,24 +137,7 @@ The fact and dimension have been combined into one table and is shown in the dat
 
 
 # Data Analysis
-Add Necessary Measures and tables
-
-`Cummulative = Sum({<Date_reported={"$(=Max({<Country=>} Date(Date_reported, 'YYYY-MM-DD')))"}>} Cumulative_cases)`
-`Death = Sum({<Date_reported={"$(=Max(Date(Date_reported, 'YYYY-MM-DD')))"}>} Cumulative_deaths)`
-`Death Rate = Sum({<Date_reported={"$(=Max(Date(Date_reported, 'YYYY-MM-DD')))"}>} Cumulative_deaths)/Sum({<Date_reported={"$(=Max(Date(Date_reported, 'YYYY-MM-DD')))"}>} Cumulative_cases)`
-`24h Newly Reported = Sum({<Date_reported={"$(=Max(Date(Date_reported, 'YYYY-MM-DD')))"}>} New_cases)`
-`24h Dealth = Sum({<Date_reported={"$(=Max(Date(Date_reported, 'YYYY-MM-DD')))"}>} New_deaths)`
-`7 d Newly Reported = Sum({<Date_reported={">=$(=Date(Max(Date_reported)-6, 'YYYY-MM-DD'))"}>} New_cases)`
-`7 d Dealth = Sum({<Date_reported={">=$(=Date(Max(Date_reported)-6, 'YYYY-MM-DD'))"}>} New_deaths)`
-`Total Vaccinations = Sum(TOTAL_VACCINATIONS)`
-`Average Vaccinations per 100 = AVG(TOTAL_VACCINATIONS_PER100)`
-`One Plus Dose = Sum(PERSONS_VACCINATED_1PLUS_DOSE)`
-`One Plus Dose Per 100 = avg(PERSONS_VACCINATED_1PLUS_DOSE_PER100)`
-`Fully Vaccinated = Sum(PERSONS_FULLY_VACCINATED)`
-`Fully Vaccinated Per 100 = avg(PERSONS_FULLY_VACCINATED_PER100)`
-`Booster Add Dose = Sum(PERSONS_BOOSTER_ADD_DOSE)`
-`Booster Add Dose Per 100 = avg(PERSONS_BOOSTER_ADD_DOSE_PER100)`
-`Unchange Total Vacc = Sum({1}TOTAL_VACCINATIONS)`
+Add Necessary Measures
 
 
 | Measure                    | Description                                                                                                                        |
@@ -188,6 +171,7 @@ Furthermore, I insert some alternative measures or dimensions to make it more in
 ![image](https://user-images.githubusercontent.com/24377958/229694982-de4aa47b-9a91-4c32-aff4-bc7f692ad881.png)
 ![image](https://user-images.githubusercontent.com/24377958/229695025-f363488e-211f-474a-bd50-2c424a14a221.png)
 ![image](https://user-images.githubusercontent.com/24377958/229695116-27647a48-1f65-42da-8eae-47d28ee8bdc1.png)
+![image](https://user-images.githubusercontent.com/24377958/229702780-70c27a7e-f724-4050-86a5-44d47f376fdb.png)
 
 
 # Insights
