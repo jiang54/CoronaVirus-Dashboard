@@ -38,7 +38,7 @@ The Dataset used for this analysis was presented by [World Health Organization](
 
 Data transformation was done in Excel and the dataset was loaded into Qlik Sense for Visualization.
 
-The call center dataset is given by a table named:
+The datasets:
 
 - `WHO-COVID-19-global-data` which has `8 columns and 280134 rows` of observation
 
